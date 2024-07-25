@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "coverjs",
-  description: "开箱即用的通全栈解决方案",
+  description: "开箱即用的nodejs全栈解决方案",
   head: [
     ['link', { rel: 'icon', href: '/logo.png' }]
   ], 

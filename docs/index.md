@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "coverjs"
-  text: "全栈解决方案"
+  text: "nodejs全栈解决方案"
   tagline: 开箱即用，前后端全流程覆盖
   image: 
     src: /logo.png
