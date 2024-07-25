@@ -1,0 +1,1 @@
+[点击跳转官方文档](https://coverjs.github.io/)
